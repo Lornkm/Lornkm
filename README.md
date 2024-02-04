@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Loriane Kim</h1>
+<h1 align="center">Hi 👋, I'm Loriane Kim, I'm French</h1>
 <h3 align="center">I'm a Fourth year of a 5-year Master’s degree in Engineering with Digital and Electronical technologies. The profil is in progress...</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
